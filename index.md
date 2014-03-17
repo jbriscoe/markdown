@@ -3,9 +3,9 @@ This site has been created to test the possibility of having non-web savvy users
 
 That being said, I know that the common man sometimes forgets his common sense. When editing the website, the users will need to
 * Edit Text (duh)
-* Embed pictures
-* Embed links
-* Embed photos
-* Re-arrange formatting
+* [Embed pictures] (pictures.md)
+* [Embed links] (links.md) 
+* [Embed videos] (videos.md)
+* Re-arrange formatting (advanced.md)
 
 Whether or not this will be possible with Markdown alone is yet to be seen.
