@@ -6,6 +6,6 @@ That being said, I know that the common man sometimes forgets his common sense. 
 * [Embed pictures] (pictures.md)
 * [Embed links] (links.md) 
 * [Embed videos] (videos.md)
-* Re-arrange formatting (advanced.md)
+* [Re-arrange formatting] (advanced.md)
 
 Whether or not this will be possible with Markdown alone is yet to be seen.
